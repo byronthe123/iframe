@@ -1,3 +1,4 @@
+//start
 jQuery(document).ready(function( $ ) {
 
     const videoArray = [
